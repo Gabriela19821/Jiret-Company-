@@ -1,0 +1,38 @@
+
+
+<!DOCTYPE html><html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>JIRET COMPANY & ASOCIADOS</title>
+<style>
+body { font-family: Arial, sans-serif; margin:0; padding:0; }
+header, section, footer { padding:20px; text-align:center; }
+nav { background:#333; color:#fff; padding:10px; display:flex; justify-content:space-around; }
+nav a { color:white; text-decoration:none; font-weight:bold; }
+.whatsapp-button { position:fixed; bottom:20px; right:20px; background:green; color:white; padding:15px; border-radius:50%; font-size:20px; text-decoration:none; }
+img { max-width:100%; height:auto; border-radius:8px; }
+</style>
+</head>
+<body>
+<header>
+<h1>JIRET COMPANY & ASOCIADOS</h1>
+<p>Asesoría y Terminación de Obra Blanca</p>
+</header>
+<nav>
+<a href="#inicio">Inicio</a>
+<a href="#nosotros">Nosotros</a>
+<a href="#servicios">Servicios</a>
+<a href="#galeria">Galería</a>
+<a href="#contacto">Contacto</a>
+</nav>
+<section id="inicio">
+<h2>Bienvenidos</h2>
+<p>Especialistas en remodelación y asesoría de obra blanca para transformar tu espacio en algo excepcional.</p>
+</section>
+<section id="nosotros">
+<h2>Sobre Nosotros</h2>
+<p>Experiencia y calidad en cada proyecto para garantizar la satisfacción de cada cliente en JIRET COMPANY & ASOCIADOS.</p>
+</section>
+<section id="servicios">
+<h2>Servicios</h2>
